@@ -6,11 +6,11 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
     // Add Your Api Key ( Contact https://wa.me//+1(917)243-9704?text=Api_Key to buy api Key (Low Price...❤️) )
-    API_KEY: 'put_your_key',
+    API_KEY: 'free',
     // Put your bot's owner number.
-    OWNER: '94742274855',
-    // Set Bot's thumbnail image.
-    THUMBNAIL: 'https://i.ibb.co/XZFdhy0/IMG-20250102-WA0065.jpg', 
+    OWNER: '94723975388',
+    // Set image.
+    THUMBNAIL: 'https://files.catbox.moe/slm10t.jpg', 
     // Set Bot's SinhalaSub image.
     SINHALA_SUB: 'https://i.ibb.co/PsFZCxCQ/images.png',
     // Set Bot's Cinesubz image.
@@ -19,10 +19,10 @@ module.exports = {
     BAISCOPE: 'https://i.ibb.co/39qs4RK4/1679311670111.jpg',
     // Set Bot's SexMv image.
     SX_MV: 'https://i.ibb.co/4RgkDKqn/parental-advisory-explicit-content-18-years-grunge-round-red-warning-stamp-isolated-on-white-vector.jpg',
-    // Add Your Movie Group Jid
-    JID: 'your_jid',
-    // Set Bot's Name. ( ඔයාට ඕනි බොට් නේම් එකක් දෙන්න...❤️)
-    BOT_NAME: 'put_your',
-    // Define the bot's footer or signature. ( ඔයාගෙ නම දෙන්න...❤️)
-    FOOTER: 'put_your'
+    // Add Jid
+    JID: '120363198820426967@g.us',
+    // Set Bot's Name. ( 𝙳𝙾 𝙽𝙾𝚃 𝙲𝙷𝙰𝙽𝙶𝙴)
+    BOT_NAME: '𝐃𝐀𝐑𝐊 𝐒𝐇𝐀𝐃𝐎𝐖',
+    // Define the bot's footer or signature. ( 𝙳𝙾  𝙽𝙾𝚃 𝙲𝙷𝙰𝙽𝙶𝙴 🚫)
+    FOOTER: '𝙳𝙰𝚁𝙺 𝚂𝙷𝙰𝙳𝙾𝚆😈'
 };
